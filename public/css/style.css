@@ -1,8 +1,8 @@
 :root {
-  --primary: #34568B;
-  --secondary: #ff6f61;
-  --tertiary: #6B5B95;
-  --light-dark: #88B04B;
+  --primary: #407294;
+  --secondary: #696969;
+  --tertiary: #666666;
+  --light-dark: #ced1c9;
   --dark: #38302e;
   --border-radius: 0.3rem;
 }
@@ -12,7 +12,7 @@
 }
 
 body {
-  background-color: var(--primary);
+  background-color: var(--secondary);
   margin: 0;
   padding: 0;
   font-family: 'Times New Roman', Times, serif, sans-serif;
