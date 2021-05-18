@@ -21,6 +21,9 @@ A blog spot for posting, deleting and commenting on people's posts, as well as b
 
 # Images
 
+![Dashboard](https://user-images.githubusercontent.com/77468756/118582135-74d42f80-b758-11eb-9d31-d69213add78c.png)
+![Homepage](https://user-images.githubusercontent.com/77468756/118582139-769df300-b758-11eb-9f6c-5969ff7073ac.png)
+![Terminal](https://user-images.githubusercontent.com/77468756/118582140-7867b680-b758-11eb-9b81-a00ddba0d843.png)
 
 
 # Installation
